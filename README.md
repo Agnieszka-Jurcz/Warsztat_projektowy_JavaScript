@@ -1,4 +1,4 @@
-Aplikacja do zarządzania czasem!
+# **Aplikacja do zarządzania czasem!**
 
 W warsztacie tworzymy aplikację, która pozwoli Nam zaeządzać swoim czasem.
 Aplikacja poprzez dodawanie poszczególnych elementów będzie poszerzana o kolejne możliwości:
